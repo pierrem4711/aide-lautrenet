@@ -11,6 +11,8 @@ Vous pouvez-vous connecter à  l'interface sécurisée du webmail de deux maniè
   - Soit depuis : https://panel.lautre.net (en utilisant le formulaire du bas)
   - Soit depuis : https://panel.lautre.net/webmail
 
+plutôt : https://rc.lautre.net/
+
 Attention, ne pas oublier le « s » de https, ni la barre oblique « / » de fin.
 
 { {{POUR LAUTRE.NET : les adresses indiquées sont des EXEMPLES... Remplacez les par vos propres adresses.}} }
